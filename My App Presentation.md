@@ -7,8 +7,6 @@ autosize: true
 Lineal Regression of Sequence with Added Noise
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
-
 For this project, I have decided to create a useful app that showcases the effect of random noise added to a simple sequence (X axis).
 This added noise gets displayed on the Y axis, while allowing the user to adjust three variables: The data size (number of points), the mean and the standard deviation of the random noise.
 
